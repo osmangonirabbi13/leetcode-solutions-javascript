@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
