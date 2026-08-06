@@ -12,10 +12,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
