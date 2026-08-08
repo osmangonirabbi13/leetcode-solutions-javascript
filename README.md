@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
