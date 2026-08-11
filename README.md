@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0485-max-consecutive-ones) |
@@ -56,5 +57,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
