@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/osmangonirabbi13/leetcode-solutions-javascript/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
